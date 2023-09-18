@@ -1,1 +1,1 @@
-d'ont forget to npm i
+install cypress if you don't have then npm i
